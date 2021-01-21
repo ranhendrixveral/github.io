@@ -1,4 +1,8 @@
 h1 {
   font-family: arial;
+  font-size: 40px;
+  font-style: bold;
+  font-weight: 100;
+  font-align: center;
   color: blue;
 }
